@@ -1,2 +1,3 @@
-iprint("hi worls")
+print("hi worlds");
+i love india
 
